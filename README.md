@@ -45,14 +45,10 @@ Statistical Analysis (Linear Regression, Polynomial Regression)
 git clone https://github.com/your-username/FSI-Prediction-Model.git
 cd FSI-Prediction-Model
 ```
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-3. Run the model:
-```
-python model.py
-```
+2. Open the notebook included
+   
+3. Follow along with the notebook
+
 ### Contributors
 
 Nadine Verelia Moiras
